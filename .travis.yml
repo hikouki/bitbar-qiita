@@ -1,0 +1,5 @@
+language: ruby
+osx_image: xcode7.1
+before_install:
+  - gem install rubocop --no-document
+script: rubocop -l qiita-notifications.1m.rb

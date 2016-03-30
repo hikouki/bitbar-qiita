@@ -4,7 +4,7 @@
 
 Bitbar plugin for Qiita.
 
-Notify of Qiita notifications.
+This plugin notify of Qiita notifications.
 
 # License
 

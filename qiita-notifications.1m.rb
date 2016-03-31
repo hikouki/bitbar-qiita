@@ -6,9 +6,9 @@
 # <bitbar.author>hikouki</bitbar.author>
 # <bitbar.author.github>hikouki</bitbar.author.github>
 # <bitbar.desc>Qiita Notifications</bitbar.desc>
-# <bitbar.image>https://raw.githubusercontent.com/hikouki/bitbar-redmine/master/preview.png</bitbar.image>
+# <bitbar.image></bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
-# <bitbar.abouturl>https://github.com/hikouki</bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/hikouki/bitbar-qiita</bitbar.abouturl>
 
 require 'net/http'
 require 'uri'
